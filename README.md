@@ -37,7 +37,7 @@ $ git clone https://github.com/lualextest1995/refactorDemo.git
 2. Install NPM.
 
 ```
-$ cd side-project
+$ cd refactorDemo
 $ npm install
 ```
 
@@ -64,7 +64,7 @@ $ git clone https://github.com/lualextest1995/refactorDemo.git
 2. Install NPM.
 
 ```
-$ cd side-project
+$ cd refactorDemo
 $ npm install
 ```
 
